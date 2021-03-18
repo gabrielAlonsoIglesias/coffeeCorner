@@ -1,0 +1,68 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Coffee",
+			"type": "beverage",
+			"size": "small",
+			"price": 2.50,
+			"currency": "CHF"
+		},
+		{
+			"id": 2,
+			"name": "Coffee",
+			"type": "beverage",
+			"size": "medium",
+			"price": 3.00,
+			"currency": "CHF"
+		},
+		{
+			"id": 3,
+			"name": "Coffee",
+			"type": "beverage",
+			"size": "large",
+			"price": 3.50,
+			"currency": "CHF"
+		},
+		{
+			"id": 4,
+			"name": "Freshly squeezed orange juice",
+			"type": "beverage",
+			"size": "0,25l",
+			"price": 3.95,
+			"currency": "CHF"
+		},
+		{
+			"id": 5,
+			"name": "Bacon Roll",
+			"type": "snack",
+			"size": "",
+			"price": 4.50,
+			"currency": "CHF"
+		},
+		{
+			"id": 6,
+			"name": "Extra milk",
+			"type": "extra",
+			"size": "",
+			"price": 0.30,
+			"currency": "CHF"
+		},
+		{
+			"id": 7,
+			"name": "Foamed milk",
+			"type": "extra",
+			"size": "",
+			"price": 0.50,
+			"currency": "CHF"
+		},
+		{
+			"id": 8,		
+			"name": "Special roast coffee",
+			"type": "extra",
+			"size": "",
+			"price": 0.90,
+			"currency": "CHF"
+		}
+	]
+}
